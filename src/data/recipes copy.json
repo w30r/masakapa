@@ -515,23 +515,6 @@
       "servings": 4
     },
     {
-      "id": "xxx",
-      "title": "Rendang Daging Dendeng",
-      "source": "meor-syamil",
-      "videoUrl": "",
-      "ingredients": [
-        "daging",
-        "bawang-besar",
-        "cili-kering",
-        "garam",
-        "minyak",
-        "serai",
-        "kicap"
-      ],
-      "prepTime": "30 min",
-      "servings": 4
-    },
-    {
       "id": "ayam-phat-phet-thai",
       "title": "Ayam Phat Phet Thai",
       "source": "khairul-aming",
