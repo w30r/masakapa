@@ -1,0 +1,367 @@
+{
+  "ingredients": [
+    {
+      "id": "ayam",
+      "name": "Ayam",
+      "category": "protein",
+      "emoji": "🐓"
+    },
+    {
+      "id": "daging",
+      "name": "Daging",
+      "category": "protein",
+      "emoji": "🥩"
+    },
+    {
+      "id": "ikan",
+      "name": "Ikan",
+      "category": "protein",
+      "emoji": "🐟"
+    },
+    {
+      "id": "udang",
+      "name": "Udang",
+      "category": "protein",
+      "emoji": "🦐"
+    },
+    {
+      "id": "telur",
+      "name": "Telur",
+      "category": "protein",
+      "emoji": "🥚"
+    },
+    {
+      "id": "tahu",
+      "name": "Tahu",
+      "category": "protein",
+      "emoji": "🫘"
+    },
+    {
+      "id": "bawang-merah",
+      "name": "Bawang Merah",
+      "category": "sayur",
+      "emoji": "🧅"
+    },
+    {
+      "id": "bawang-putih",
+      "name": "Bawang Putih",
+      "category": "sayur",
+      "emoji": "🧄"
+    },
+    {
+      "id": "bawang-besar",
+      "name": "Bawang Besar",
+      "category": "sayur",
+      "emoji": "🧅"
+    },
+    {
+      "id": "halia",
+      "name": "Halia",
+      "category": "sayur",
+      "emoji": "🫚"
+    },
+    {
+      "id": "cili-kering",
+      "name": "Cili Kering",
+      "category": "sayur",
+      "emoji": "🌶️"
+    },
+    {
+      "id": "cili-api",
+      "name": "Cili Api",
+      "category": "sayur",
+      "emoji": "🌶️"
+    },
+    {
+      "id": "cili",
+      "name": "Cili",
+      "category": "sayur",
+      "emoji": "🌶️"
+    },
+    {
+      "id": "cili-kisar",
+      "name": "Cili Kisar",
+      "category": "sayur",
+      "emoji": "🌶️"
+    },
+    {
+      "id": "tomato",
+      "name": "Tomato",
+      "category": "sayur",
+      "emoji": "🍅"
+    },
+    {
+      "id": "kentang",
+      "name": "Kentang",
+      "category": "sayur",
+      "emoji": "🥔"
+    },
+    {
+      "id": "lobak-merah",
+      "name": "Lobak Merah",
+      "category": "sayur",
+      "emoji": "🥕"
+    },
+    {
+      "id": "kobis",
+      "name": "Kobis",
+      "category": "sayur",
+      "emoji": "🥬"
+    },
+    {
+      "id": "terung",
+      "name": "Terung",
+      "category": "sayur",
+      "emoji": "🍆"
+    },
+    {
+      "id": "bendi",
+      "name": "Bendi",
+      "category": "sayur",
+      "emoji": "🥒"
+    },
+    {
+      "id": "kacang-panjang",
+      "name": "Kacang Panjang",
+      "category": "sayur",
+      "emoji": "🥒"
+    },
+    {
+      "id": "serai",
+      "name": "Serai",
+      "category": "aromatik",
+      "emoji": "🌿"
+    },
+    {
+      "id": "lengkuas",
+      "name": "Lengkuas",
+      "category": "aromatik",
+      "emoji": "🌿"
+    },
+    {
+      "id": "kunyit-hidup",
+      "name": "Kunyit Hidup",
+      "category": "aromatik",
+      "emoji": "🌿"
+    },
+    {
+      "id": "daun-limau",
+      "name": "Daun Limau",
+      "category": "aromatik",
+      "emoji": "🍃"
+    },
+    {
+      "id": "daun-pandan",
+      "name": "Daun Pandan",
+      "category": "aromatik",
+      "emoji": "🍃"
+    },
+    {
+      "id": "kunyit",
+      "name": "Kunyit",
+      "category": "aromatik",
+      "emoji": "🥜"
+    },
+    {
+      "id": "booby-trap",
+      "name": "Booby Trap",
+      "category": "aromatik",
+      "emoji": "🥜"
+    },
+    {
+      "id": "daun-kari",
+      "name": "Daun Kari",
+      "category": "aromatik",
+      "emoji": "🍃"
+    },
+    {
+      "id": "daun-bawang",
+      "name": "Daun Bawang",
+      "category": "aromatik",
+      "emoji": "🧅"
+    },
+    {
+      "id": "daun-ketumbar",
+      "name": "Daun Ketumbar",
+      "category": "aromatik",
+      "emoji": "🌿"
+    },
+    {
+      "id": "santan",
+      "name": "Santan",
+      "category": "perasa",
+      "emoji": "🥥"
+    },
+    {
+      "id": "kerisik",
+      "name": "Kerisik",
+      "category": "perasa",
+      "emoji": "🥥"
+    },
+    {
+      "id": "garam",
+      "name": "Garam",
+      "category": "perasa",
+      "emoji": "🧂"
+    },
+    {
+      "id": "lada-sulah",
+      "name": "Lada Sulah",
+      "category": "perasa",
+      "emoji": "🌶️"
+    },
+    {
+      "id": "gula",
+      "name": "Gula",
+      "category": "perasa",
+      "emoji": "🍬"
+    },
+    {
+      "id": "gula-melaka",
+      "name": "Gula Melaka",
+      "category": "perasa",
+      "emoji": "🍬"
+    },
+    {
+      "id": "kicap",
+      "name": "Kicap",
+      "category": "perasa",
+      "emoji": "🫗"
+    },
+    {
+      "id": "kicap-manis",
+      "name": "Kicap Manis",
+      "category": "perasa",
+      "emoji": "⬛"
+    },
+    {
+      "id": "sos-tomato",
+      "name": "Sos Tomato",
+      "category": "perasa",
+      "emoji": "🥫"
+    },
+    {
+      "id": "sos-cili",
+      "name": "Sos Cili",
+      "category": "perasa",
+      "emoji": "🌶️"
+    },
+    {
+      "id": "belacan",
+      "name": "Belacan",
+      "category": "perasa",
+      "emoji": "🦐"
+    },
+    {
+      "id": "serbuk-kunyit",
+      "name": "Serbuk Kunyit",
+      "category": "rempah",
+      "emoji": "⬛"
+    },
+    {
+      "id": "serbuk-cili",
+      "name": "Serbuk Cili",
+      "category": "rempah",
+      "emoji": "⬛"
+    },
+    {
+      "id": "serbuk-kari",
+      "name": "Serbuk Kari",
+      "category": "rempah",
+      "emoji": "🍛"
+    },
+    {
+      "id": "serbuk-jintan",
+      "name": "Serbuk Jintan",
+      "category": "rempah"
+    },
+    {
+      "id": "serbuk-ketumbar",
+      "name": "Serbuk Ketumbar",
+      "category": "rempah"
+    },
+    {
+      "id": "lada-hitam",
+      "name": "Lada Hitam",
+      "category": "rempah"
+    },
+    {
+      "id": "minyak",
+      "name": "Minyak Masak",
+      "category": "pantry",
+      "emoji": "🪔"
+    },
+    {
+      "id": "beras",
+      "name": "Beras",
+      "category": "pantry",
+      "emoji": "🍚"
+    },
+    {
+      "id": "tepung-gandum",
+      "name": "Tepung Gandum",
+      "category": "pantry",
+      "emoji": "🌾"
+    },
+    {
+      "id": "tepung-beras",
+      "name": "Tepung Beras",
+      "category": "pantry",
+      "emoji": "🌾"
+    },
+    {
+      "id": "bawang-goreng",
+      "name": "Bawang Goreng",
+      "category": "pantry",
+      "emoji": "🧅"
+    },
+    {
+      "id": "cili-padi",
+      "name": "Cili Padi",
+      "category": "sayur",
+      "emoji": "🌶️"
+    },
+    {
+      "id": "sos-tiram",
+      "name": "Sos Tiram",
+      "category": "perasa",
+      "emoji": "🦑"
+    },
+    {
+      "id": "serbuk-ayam",
+      "name": "Serbuk Pati Ayam",
+      "category": "perasa",
+      "emoji": "🧂"
+    },
+    {
+      "id": "kicap-inggeris",
+      "name": "Kicap Inggeris",
+      "category": "perasa",
+      "emoji": "🫗"
+    },
+    {
+      "id": "sos-ikan",
+      "name": "Sos Ikan",
+      "category": "perasa",
+      "emoji": "🐟"
+    },
+    {
+      "id": "ajinomoto",
+      "name": "Ajinomoto",
+      "category": "perasa",
+      "emoji": "🧂"
+    },
+    {
+      "id": "asam-jawa",
+      "name": "Asam Jawa",
+      "category": "perasa",
+      "emoji": "酸"
+    },
+    {
+      "id": "baby-corn",
+      "name": "Baby Corn",
+      "category": "sayur",
+      "emoji": "🌽"
+    }
+  ]
+}

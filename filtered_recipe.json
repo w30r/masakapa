@@ -1,0 +1,227 @@
+{
+    "recipes": [
+        {
+            "id": "daging-dendeng",
+            "title": "Daging Dendeng",
+            "source": "khairul-aming",
+            "videoUrl": "https://www.instagram.com/reel/CrC60MkgBdE/",
+            "ingredients": [
+                "daging",
+                "serai",
+                "halia",
+                "bawang-merah",
+                "bawang-putih",
+                "cili-kering",
+                "daun-limau",
+                "kicap-manis",
+                "gula",
+                "garam",
+                "ajinomoto",
+                "cili-padi",
+                "asam-jawa"
+            ],
+            "prepTime": "45 min",
+            "servings": 4
+        },
+        {
+            "id": "rendang-2-kilo-daging",
+            "title": "Rendang 2 Kilo Daging",
+            "source": "khairul-aming",
+            "videoUrl": "https://www.instagram.com/reel/C5U-BO4PiTH/",
+            "ingredients": [
+                "bawang-besar",
+                "halia",
+                "serai",
+                "lengkuas",
+                "bawang-putih",
+                "kunyit-hidup",
+                "cili-kisar",
+                "daging",
+                "ajinomoto",
+                "*1 sudu biji ketumbar (ditumbuk)*",
+                "*1 sudu jintan putih (ditumbuk)*",
+                "*1 sudu jintan manis (ditumbuk)*",
+                "santan",
+                "gula-melaka",
+                "kunyit",
+                "daun-limau",
+                "kerisik",
+                "asam-jawa"
+            ],
+            "prepTime": "45 min",
+            "servings": 4
+        },
+        {
+            "id": "kari-daging-raya-haji",
+            "title": "Kari Daging Raya Haji",
+            "source": "khairul-aming",
+            "videoUrl": "https://www.instagram.com/reel/Cfsm6rZgXt1/",
+            "ingredients": [
+                "daging",
+                "*Air*",
+                "garam",
+                "booby-trap",
+                "bawang-merah",
+                "bawang-putih",
+                "halia",
+                "serbuk-kari",
+                "serbuk-cili",
+                "gula",
+                "santan",
+                "terung"
+            ],
+            "prepTime": "45 min",
+            "servings": 4
+        },
+        {
+            "id": "daging-balado",
+            "title": "Daging Balado",
+            "source": "khairul-aming",
+            "videoUrl": "https://www.instagram.com/p/B1Ia1r8lNUv/",
+            "ingredients": [
+                "daging",
+                "*1 sudu biji ketumbar*",
+                "bawang-putih",
+                "garam",
+                "*Air*",
+                "minyak",
+                "bawang-merah",
+                "*4 lada besar*",
+                "cili",
+                "tomato",
+                "gula",
+                "daun-limau"
+            ],
+            "prepTime": "45 min",
+            "servings": 4
+        },
+        {
+            "id": "daging-bakar-cicah-thai-sauce",
+            "title": "Daging Bakar Cicah Thai Sauce",
+            "source": "khairul-aming",
+            "videoUrl": "https://www.instagram.com/p/Bxtie58l_TX/",
+            "ingredients": [
+                "daging",
+                "garam",
+                "*2 ulas bwg putih*",
+                "lada-sulah",
+                "gula",
+                "sos-tiram",
+                "kicap-manis",
+                "cili",
+                "bawang-putih",
+                "sos-ikan",
+                "daun-ketumbar"
+            ],
+            "prepTime": "45 min",
+            "servings": 4
+        },
+        {
+            "id": "daging-masang-lada-hitam-2-0",
+            "title": "Daging Masang Lada Hitam 2 0",
+            "source": "khairul-aming",
+            "videoUrl": "https://www.instagram.com/reel/CaWL8r3Atqh/",
+            "ingredients": [
+                "sos-tiram",
+                "kicap-manis",
+                "gula",
+                "*1 sudu besar cuka*",
+                "*Sedikit lada putih*",
+                "*1/2 cawan air*",
+                "*1 sudu besar tepung jagung*",
+                "daging",
+                "*1/3 sudu kecil AJI-NO-MOTO®️*",
+                "garam",
+                "lada-hitam",
+                "bawang-besar",
+                "*2 ulas bwg putih*",
+                "cili-padi",
+                "*1/2 cawan brokoli*"
+            ],
+            "prepTime": "45 min",
+            "servings": 4
+        },
+        {
+            "id": "daging-masak-kicap",
+            "title": "Daging Masak Kicap",
+            "source": "khairul-aming",
+            "videoUrl": "https://www.instagram.com/p/CDiN217JY0k/",
+            "ingredients": [
+                "bawang-merah",
+                "halia",
+                "bawang-putih",
+                "daging",
+                "cili",
+                "*Air*",
+                "kicap-manis",
+                "garam",
+                "bawang-besar",
+                "daun-bawang"
+            ],
+            "prepTime": "45 min",
+            "servings": 4
+        },
+        {
+            "id": "daging-black-pepper",
+            "title": "Daging Black Pepper",
+            "source": "khairul-aming",
+            "videoUrl": "https://www.instagram.com/p/BjjYx8CF9zs/",
+            "ingredients": [
+                "daging",
+                "bawang-putih",
+                "halia",
+                "sos-tiram",
+                "lada-hitam",
+                "*1/2 cawan air*",
+                "gula",
+                "garam",
+                "*1 biji bawang*",
+                "*1 biji lada benggala*",
+                "*3 sudu besar adunan tepung jagung*"
+            ],
+            "prepTime": "45 min",
+            "servings": 4
+        },
+        {
+            "id": "daging-masak-lada-hitam",
+            "title": "Daging Masak Lada Hitam",
+            "source": "khairul-aming",
+            "videoUrl": "https://www.instagram.com/p/B1X15a4luzO/",
+            "ingredients": [
+                "daging",
+                "garam",
+                "lada-hitam",
+                "bawang-putih",
+                "halia",
+                "sos-tiram",
+                "bawang-besar",
+                "*Lada benggala*",
+                "*Sayur brokoli*",
+                "*1/2 cawan air*",
+                "*3 sudu air tepung jagung*"
+            ],
+            "prepTime": "45 min",
+            "servings": 4
+        },
+        {
+            "id": "kuey-teow-daging",
+            "title": "Kuey Teow Daging",
+            "source": "khairul-aming",
+            "videoUrl": "https://www.instagram.com/p/CIUnrnygjrk/",
+            "ingredients": [
+                "daging",
+                "sos-tiram",
+                "garam",
+                "*1/2 sudu tepung jagung*",
+                "kicap-manis",
+                "bawang-besar",
+                "bawang-putih",
+                "*1 paket kuey teow*",
+                "*Daun Kucai*",
+                "*Taugeh*"
+            ],
+            "prepTime": "45 min",
+            "servings": 4
+        }
+    ]
+}

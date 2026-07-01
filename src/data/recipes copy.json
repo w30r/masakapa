@@ -1,0 +1,561 @@
+{
+  "recipes": [
+    {
+      "id": "id",
+      "title": "title",
+      "source": "khairul-aming",
+      "videoUrl": "https://youtube.com/watch?v=example1",
+      "ingredients": [
+        "ayam",
+        "bawang-merah",
+        "bawang-putih"
+      ],
+      "prepTime": "45 min",
+      "servings": 4
+    },
+    {
+      "id": "ayam-masak-merah",
+      "title": "Ayam Masak Merah",
+      "source": "khairul-aming",
+      "videoUrl": "https://youtube.com/watch?v=example1",
+      "ingredients": [
+        "ayam",
+        "bawang-merah",
+        "bawang-putih",
+        "halia",
+        "cili-kering",
+        "tomato",
+        "sos-tomato",
+        "gula",
+        "garam",
+        "minyak"
+      ],
+      "prepTime": "45 min",
+      "servings": 4
+    },
+    {
+      "id": "sambal-telur",
+      "title": "Sambal Telur",
+      "source": "khairul-aming",
+      "videoUrl": "https://youtube.com/watch?v=example2",
+      "ingredients": [
+        "telur",
+        "cili-kering",
+        "bawang-merah",
+        "bawang-putih",
+        "belacan",
+        "gula",
+        "garam",
+        "minyak"
+      ],
+      "prepTime": "20 min",
+      "servings": 3
+    },
+    {
+      "id": "ayam-goreng-berempah",
+      "title": "Ayam Goreng Berempah",
+      "source": "khairul-aming",
+      "videoUrl": "https://youtube.com/watch?v=example3",
+      "ingredients": [
+        "ayam",
+        "serbuk-kunyit",
+        "serbuk-kari",
+        "garam",
+        "tepung-beras",
+        "tepung-gandum",
+        "minyak"
+      ],
+      "prepTime": "35 min",
+      "servings": 4
+    },
+    {
+      "id": "dalca-sayur",
+      "title": "Dalca Sayur",
+      "source": "khairul-aming",
+      "videoUrl": "https://youtube.com/watch?v=example4",
+      "ingredients": [
+        "kentang",
+        "lobak-merah",
+        "terung",
+        "kacang-panjang",
+        "bendi",
+        "bawang-merah",
+        "bawang-putih",
+        "halia",
+        "serbuk-kari",
+        "santan",
+        "garam",
+        "gula",
+        "minyak"
+      ],
+      "prepTime": "40 min",
+      "servings": 5
+    },
+    {
+      "id": "rendang-ayam",
+      "title": "Rendang Ayam",
+      "source": "che-nom",
+      "videoUrl": "https://youtube.com/watch?v=example5",
+      "ingredients": [
+        "ayam",
+        "santan",
+        "kerisik",
+        "serai",
+        "lengkuas",
+        "kunyit-hidup",
+        "daun-limau",
+        "cili-kering",
+        "bawang-merah",
+        "bawang-putih",
+        "garam",
+        "gula",
+        "minyak"
+      ],
+      "prepTime": "90 min",
+      "servings": 6
+    },
+    {
+      "id": "kari-ayam",
+      "title": "Kari Ayam",
+      "source": "che-nom",
+      "videoUrl": "https://youtube.com/watch?v=example6",
+      "ingredients": [
+        "ayam",
+        "kentang",
+        "bawang-merah",
+        "bawang-putih",
+        "halia",
+        "serbuk-kari",
+        "santan",
+        "daun-kari",
+        "cili-api",
+        "garam",
+        "gula",
+        "minyak"
+      ],
+      "prepTime": "50 min",
+      "servings": 5
+    },
+    {
+      "id": "sup-daging",
+      "title": "Sup Daging",
+      "source": "che-nom",
+      "videoUrl": "https://youtube.com/watch?v=example7",
+      "ingredients": [
+        "daging",
+        "kentang",
+        "lobak-merah",
+        "bawang-merah",
+        "bawang-putih",
+        "halia",
+        "serbuk-kari",
+        "daun-bawang",
+        "lada-hitam",
+        "garam",
+        "minyak"
+      ],
+      "prepTime": "60 min",
+      "servings": 4
+    },
+    {
+      "id": "tahu-bergedil",
+      "title": "Tahu Bergedil",
+      "source": "che-nom",
+      "videoUrl": "https://youtube.com/watch?v=example8",
+      "ingredients": [
+        "tahu",
+        "kentang",
+        "telur",
+        "daun-bawang",
+        "bawang-merah",
+        "bawang-putih",
+        "garam",
+        "minyak"
+      ],
+      "prepTime": "30 min",
+      "servings": 4
+    },
+    {
+      "id": "ikan-bakar",
+      "title": "Ikan Bakar",
+      "source": "khairul-aming",
+      "videoUrl": "https://youtube.com/watch?v=example9",
+      "ingredients": [
+        "ikan",
+        "serai",
+        "kunyit-hidup",
+        "cili-api",
+        "bawang-merah",
+        "bawang-putih",
+        "garam",
+        "minyak"
+      ],
+      "prepTime": "35 min",
+      "servings": 3
+    },
+    {
+      "id": "nasi-lemak",
+      "title": "Nasi Lemak",
+      "source": "che-nom",
+      "videoUrl": "https://youtube.com/watch?v=example10",
+      "ingredients": [
+        "beras",
+        "santan",
+        "daun-pandan",
+        "halia",
+        "bawang-merah",
+        "bawang-putih",
+        "asam-jawa",
+        "cili-kering",
+        "ikan-bilis",
+        "telur",
+        "timun",
+        "garam"
+      ],
+      "prepTime": "40 min",
+      "servings": 4
+    },
+    {
+      "id": "resepi-ayam-belengas-viral",
+      "title": "Ayam Belengas Viral",
+      "source": "che-nom",
+      "videoUrl": "https://resepichenom.com/resepi/ayam-belengas-viral",
+      "ingredients": [
+        "ayam",
+        "bawang-besar",
+        "bawang-putih",
+        "cili-padi",
+        "garam",
+        "halia",
+        "kicap",
+        "minyak",
+        "serbuk-kunyit",
+        "sos-cili",
+        "sos-tiram",
+        "sos-tomato",
+        "tomato"
+      ],
+      "prepTime": "30 min",
+      "servings": 4
+    },
+    {
+      "id": "ayam-goreng-kunyit-rangup-macam-gerai-400g-teknik-minyak-kunyit-bloom-tak-serap-minyak",
+      "title": "Ayam Goreng Kunyit Rangup",
+      "source": "che-nom",
+      "videoUrl": "https://resepichenom.com/resepi/ayam-goreng-kunyit-rangup-macam-gerai-400g-teknik-minyak-kunyit-bloom-tak-serap-minyak",
+      "ingredients": [
+        "ayam",
+        "bawang-besar",
+        "bawang-putih",
+        "garam",
+        "gula",
+        "minyak",
+        "serbuk-kunyit"
+      ],
+      "prepTime": "30 min",
+      "servings": 4
+    },
+    {
+      "id": "resepi-ayam-gunting-pasar-malam",
+      "title": "Ayam Gunting Pasar Malam",
+      "source": "che-nom",
+      "videoUrl": "https://resepichenom.com/resepi/ayam-gunting-pasar-malam",
+      "ingredients": [
+        "ayam",
+        "bawang-putih",
+        "garam",
+        "gula",
+        "minyak",
+        "sos-tiram",
+        "telur"
+      ],
+      "prepTime": "30 min",
+      "servings": 4
+    },
+    {
+      "id": "resepi-ayam-vanggey-ala-nasi-ganja",
+      "title": "Ayam Vanggey Ala Nasi Ganja",
+      "source": "che-nom",
+      "videoUrl": "https://resepichenom.com/resepi/ayam-vanggey-ala-nasi-ganja",
+      "ingredients": [
+        "bawang-besar",
+        "bawang-putih",
+        "daging",
+        "daun-kari",
+        "garam",
+        "halia",
+        "minyak",
+        "serai",
+        "serbuk-kunyit",
+        "tomato"
+      ],
+      "prepTime": "30 min",
+      "servings": 4
+    },
+    {
+      "id": "resepi-bakso-dengan-bebola-daging-kenyal-bouncy-teknik-rahsia-tak-liat",
+      "title": "Bakso Dengan Bebola Daging Kenyal & Bouncy — Teknik Rahsia Tak Liat",
+      "source": "che-nom",
+      "videoUrl": "https://resepichenom.com/resepi/bakso-dengan-bebola-daging-kenyal-bouncy",
+      "ingredients": [
+        "bawang-besar",
+        "bawang-merah",
+        "bawang-putih",
+        "cili-padi",
+        "daging",
+        "garam",
+        "gula",
+        "kicap",
+        "sos-cili",
+        "telur"
+      ],
+      "prepTime": "30 min",
+      "servings": 4
+    },
+    {
+      "id": "resepi-chicken-chop-goreng-dengan-coleslaw-sos-black-pepper",
+      "title": "Chicken Chop Goreng Dengan Coleslaw & Sos Black Pepper",
+      "source": "che-nom",
+      "videoUrl": "https://resepichenom.com/resepi/chicken-chop-goreng",
+      "ingredients": [
+        "ayam",
+        "bawang-besar",
+        "bawang-putih",
+        "garam",
+        "gula",
+        "kentang",
+        "kicap",
+        "minyak",
+        "telur",
+        "tomato"
+      ],
+      "prepTime": "30 min",
+      "servings": 4
+    },
+    {
+      "id": "resepi-daging-salai-masak-lemak-cili-padi",
+      "title": "Daging Salai Masak Lemak Cili Padi",
+      "source": "che-nom",
+      "videoUrl": "https://resepichenom.com/resepi/daging-salai-masak-lemak-cili-padi",
+      "ingredients": [
+        "cili-padi",
+        "daging",
+        "garam",
+        "minyak",
+        "santan",
+        "serai",
+        "serbuk-kunyit"
+      ],
+      "prepTime": "30 min",
+      "servings": 4
+    },
+    {
+      "id": "resepi-dalca-tulang-nasi-minyak-dan-acar-timun",
+      "title": "Dalca Tulang, Nasi Minyak Dan Acar Timun",
+      "source": "che-nom",
+      "videoUrl": "https://resepichenom.com/resepi/dalca-tulang-nasi-minyak-acar-timun",
+      "ingredients": [
+        "asam-jawa",
+        "ayam",
+        "bawang-besar",
+        "bawang-putih",
+        "cili-kering",
+        "daging",
+        "daun-kari",
+        "garam",
+        "gula",
+        "halia",
+        "kentang",
+        "minyak",
+        "santan",
+        "tomato"
+      ],
+      "prepTime": "30 min",
+      "servings": 4
+    },
+    {
+      "id": "resepi-mee-bandung-power-kuah-pekat-pedas-berlemak",
+      "title": "Mee Bandung Power, Kuah Pekat Pedas Berlemak",
+      "source": "che-nom",
+      "videoUrl": "https://resepichenom.com/resepi/mee-bandung",
+      "ingredients": [
+        "bawang-merah",
+        "bawang-putih",
+        "cili-kering",
+        "daging",
+        "garam",
+        "gula",
+        "kicap",
+        "minyak",
+        "sos-cili",
+        "sos-tomato",
+        "telur",
+        "tomato"
+      ],
+      "prepTime": "30 min",
+      "servings": 4
+    },
+    {
+      "id": "resepi-nasi-ayam-roasted-ala-chicken-rice-shop-beras-jasmine-ayam-berkilat",
+      "title": "Nasi Ayam Roasted Ala Chicken Rice Shop (Beras Jasmine & Ayam Berkilat)",
+      "source": "che-nom",
+      "videoUrl": "https://resepichenom.com/resepi/nasi-ayam-roasted-ala-chicken-rice-shop",
+      "ingredients": [
+        "ayam",
+        "bawang-putih",
+        "cili-padi",
+        "garam",
+        "gula",
+        "halia",
+        "kicap",
+        "minyak",
+        "sos-tiram"
+      ],
+      "prepTime": "30 min",
+      "servings": 4
+    },
+    {
+      "id": "resepi-ayam-masak-daun-kesum",
+      "title": "Ayam Masak Daun Kesum",
+      "source": "che-nom",
+      "videoUrl": "https://resepichenom.com/resepi/resepi-ayam-masak-daun-kesum",
+      "ingredients": [
+        "ayam",
+        "bawang-besar",
+        "bawang-putih",
+        "cili-padi",
+        "gula",
+        "minyak",
+        "serai",
+        "sos-tiram"
+      ],
+      "prepTime": "30 min",
+      "servings": 4
+    },
+    {
+      "id": "resepi-sambal-sotong-lembut-tak-liat-pekat-bersalut",
+      "title": "Sambal Sotong Lembut Tak Liat (Pekat Bersalut)",
+      "source": "che-nom",
+      "videoUrl": "https://resepichenom.com/resepi/resepi-sambal-sotong-lembut-tak-liat-pekat-bersalut",
+      "ingredients": [
+        "asam-jawa",
+        "bawang-besar",
+        "bawang-merah",
+        "bawang-putih",
+        "cili-kering",
+        "garam",
+        "gula",
+        "halia",
+        "kicap",
+        "minyak",
+        "serai",
+        "sos-tiram"
+      ],
+      "prepTime": "30 min",
+      "servings": 4
+    },
+    {
+      "id": "resepi-set-nasi-kerabu",
+      "title": "Set Nasi Kerabu",
+      "source": "che-nom",
+      "videoUrl": "https://resepichenom.com/resepi/set-nasi-kerabu",
+      "ingredients": [
+        "bawang-besar",
+        "bawang-merah",
+        "bawang-putih",
+        "cili-kering",
+        "cili-padi",
+        "garam",
+        "gula",
+        "halia",
+        "minyak",
+        "santan",
+        "serai",
+        "serbuk-kunyit",
+        "telur"
+      ],
+      "prepTime": "30 min",
+      "servings": 4
+    },
+    {
+      "id": "resepi-siakap-goreng-sos-thai",
+      "title": "Siakap Goreng Sos Thai",
+      "source": "che-nom",
+      "videoUrl": "https://resepichenom.com/resepi/siakap-goreng-sos-thai",
+      "ingredients": [
+        "bawang-besar",
+        "bawang-putih",
+        "cili-padi",
+        "garam",
+        "gula",
+        "minyak",
+        "serbuk-kunyit",
+        "sos-cili"
+      ],
+      "prepTime": "30 min",
+      "servings": 4
+    },
+    {
+      "id": "resepi-sup-ikan-merah-simple-45-orang-bau-wangi-tak-hanyir",
+      "title": "Sup Ikan Merah Simple (4–5 Orang) — Bau Wangi, Tak Hanyir",
+      "source": "che-nom",
+      "videoUrl": "https://resepichenom.com/resepi/sup-ikan-merah-simple",
+      "ingredients": [
+        "ayam",
+        "bawang-besar",
+        "bawang-putih",
+        "cili-padi",
+        "garam",
+        "halia",
+        "minyak",
+        "serai",
+        "tomato"
+      ],
+      "prepTime": "30 min",
+      "servings": 4
+    },
+    {
+      "id": "xxx",
+      "title": "Rendang Daging Dendeng",
+      "source": "meor-syamil",
+      "videoUrl": "",
+      "ingredients": [
+        "daging",
+        "bawang-besar",
+        "cili-kering",
+        "garam",
+        "minyak",
+        "serai",
+        "kicap"
+      ],
+      "prepTime": "30 min",
+      "servings": 4
+    },
+    {
+      "id": "ayam-phat-phet-thai",
+      "title": "Ayam Phat Phet Thai",
+      "source": "khairul-aming",
+      "videoUrl": "",
+      "ingredients": [
+        "ayam",
+        "garam",
+        "serbuk-kunyit",
+        "bawang-merah",
+        "bawang-putih",
+        "halia",
+        "kunyit-hidup",
+        "serai",
+        "cili-padi",
+        "daun-limau",
+        "sos-ikan",
+        "asam-jawa",
+        "gula",
+        "serbuk-ayam",
+        "baby-corn",
+        "kacang-panjang"
+      ],
+      "prepTime": "30 min",
+      "servings": 4
+    }
+  ]
+}
