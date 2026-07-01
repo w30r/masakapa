@@ -8,6 +8,7 @@ interface Props {
 const SOURCE_LABELS: Record<RecipeSource, string> = {
   "khairul-aming": "Khairul Aming",
   "che-nom": "Che Nom",
+  "meor-syamil": "Meor Syamil",
 };
 
 function getMatchLabel(matched: number, total: number): string {
@@ -27,10 +28,14 @@ export function RecipeCard({ match, onClick }: Props) {
     >
       <div className="card-header">
         <span className="card-source">{SOURCE_LABELS[recipe.source]}</span>
-        {recipe.prepTime && <span className="card-time">{recipe.prepTime}</span>}
+        {recipe.prepTime && (
+          <span className="card-time">{recipe.prepTime}</span>
+        )}
       </div>
       <h3 className="card-title">{recipe.title}</h3>
-      <span className="card-match">{getMatchLabel(matchedCount, totalCount)}</span>
+      <span className="card-match">
+        {getMatchLabel(matchedCount, totalCount)}
+      </span>
     </article>
   );
 }
